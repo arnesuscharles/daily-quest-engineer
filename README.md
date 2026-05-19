@@ -22,8 +22,8 @@ Current Title:
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programmingg | 10 |
-| ⚙️ Backendd | 5 | 
+| 🖥️ Programming| 10 |
+| ⚙️ Backend | 5 | 
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |
