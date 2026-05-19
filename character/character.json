@@ -1,0 +1,42 @@
+{
+  "name": "Charles",
+  "class": "Engineer Adventurer",
+  "rank": "Novice",
+  "level": 0,
+  "total_exp": 40,
+
+  "attributes": {
+    "programming": 0,
+    "backend": 0,
+    "linux": 10,
+    "terminal": 5,
+    "git": 15,
+    "security": 10,
+    "devops": 0,
+    "cloud": 0,
+    "docker": 0,
+    "kubernetes": 0,
+    "database": 0,
+    "data_engineering": 0,
+    "spark": 0,
+    "ai": 0,
+    "debugging": 5,
+    "architecture": 0,
+    "wisdom": 0
+  },
+
+  "titles": [
+    "Linux Wanderer",
+    "Keeper of Keys"
+  ],
+
+  "achievements": [
+    "First Steps",
+    "Keeper of Keys",
+    "First Commit"
+  ],
+
+  "current_world": "Linux World",
+
+  "active_quest": "Level 1 - Hello Golang"
+}
