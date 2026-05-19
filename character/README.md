@@ -7,7 +7,7 @@ Charles
 Engineer Adventurer
 
 ## Current Level
-0
+1
 
 ## Rank
 Novice
@@ -19,7 +19,7 @@ Novice
 | Attribute | EXP |
 |---|---|
 | 🖥️ Programming | 10 |
-| ⚙️ Backend | 05 |
+| ⚙️ Backend | 5 |
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |

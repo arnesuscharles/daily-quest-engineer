@@ -9,10 +9,12 @@ An RPG-style engineering journey from Level 0 → 100.
 - Name: Charles
 - Class: Engineer Adventurer
 - Rank: Novice
-- Current Level: 0
+- Current Level: 1
 
 Current Title:
 - 🟢 Linux Wanderer
+- 🟢 Keeper of Keys
+- 🟢 Code Initiate
 
 ---
 
@@ -20,29 +22,34 @@ Current Title:
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming | 0 |
+| 🖥️ Programmingg | 10 |
+| ⚙️ Backendd | 5 | 
 | 🐧 Linux | 10 |
+| 💻 Terminal | 5 |
 | 🔀 Git | 15 |
 | 🔐 Security | 10 |
 | 🧩 Debugging | 5 |
+| 📚 Wisdom | 5 |
 
 ---
 
 # 🌍 Current World
 
-Linux World
+Golang Village
 
 ---
 
 # 🎯 Active Quest
 
-## Level 1 — Hello Golang
+## Level 002 — Variables & Data Types
 
-Objectives:
-- Install Golang
-- Create first Go program
-- Run Hello World
-- Push progress to GitHub
+Next time:
+
+- numbers,
+- strings,
+- booleans,
+- variables,
+- how computers store data.
 
 ---
 
@@ -51,6 +58,7 @@ Objectives:
 - ✅ First Steps
 - ✅ Keeper of Keys
 - ✅ First Commit
+- ✅ Hello Golang
 
 ---
 
