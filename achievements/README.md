@@ -5,7 +5,7 @@
 | First Steps | Enter Linux world | ✅ |
 | Keeper of Keys | Setup SSH authentication | ✅ |
 | First Commit | Push first repository | ✅ |
-| Hello Golang | Run first Go program | 🔒 |
+| Hello Golang | Run first Go program | ✅  |
 | API Summoner | Create first REST API | 🔒 |
 | Container Tamer | Build first Docker image | 🔒 |
 | Cluster Survivor | Deploy to Kubernetes | 🔒 |

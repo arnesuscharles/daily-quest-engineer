@@ -2,12 +2,12 @@
   "name": "Charles",
   "class": "Engineer Adventurer",
   "rank": "Novice",
-  "level": 0,
-  "total_exp": 40,
+  "level": 1,
+  "total_exp": 60,
 
   "attributes": {
-    "programming": 0,
-    "backend": 0,
+    "programming": 10,
+    "backend": 5,
     "linux": 10,
     "terminal": 5,
     "git": 15,
@@ -22,12 +22,13 @@
     "ai": 0,
     "debugging": 5,
     "architecture": 0,
-    "wisdom": 0
+    "wisdom": 5
   },
 
   "titles": [
     "Linux Wanderer",
-    "Keeper of Keys"
+    "Keeper of Keys",
+    "Code Initiate"
   ],
 
   "achievements": [
@@ -38,5 +39,5 @@
 
   "current_world": "Linux World",
 
-  "active_quest": "Level 1 - Hello Golang"
+  "active_quest": "Level 2 - Variables & Data Types"
 }

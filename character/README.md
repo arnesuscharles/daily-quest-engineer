@@ -18,8 +18,8 @@ Novice
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming | 0 |
-| ⚙️ Backend | 0 |
+| 🖥️ Programming | 10 |
+| ⚙️ Backend | 05 |
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |
@@ -34,7 +34,7 @@ Novice
 | 🤖 AI | 0 |
 | 🧩 Debugging | 5 |
 | 📐 Architecture | 0 |
-| 📚 Wisdom | 0 |
+| 📚 Wisdom | 5 |
 
 ---
 
@@ -42,9 +42,10 @@ Novice
 
 - 🟢 Linux Wanderer
 - 🟢 Keeper of Keys
+- 🟢 Code Initiate
 
 ---
 
 # 🎯 Active Quest
 
-Level 1 — Hello Golang
+Level 2 — Variables & Data Types
