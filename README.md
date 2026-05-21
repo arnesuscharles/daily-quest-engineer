@@ -9,13 +9,14 @@ An RPG-style engineering journey from Level 0 → 100.
 - Name: Charles
 - Class: Engineer Adventurer
 - Rank: Novice
-- Current Level: 2
+- Current Level: 3
 
 Current Title:
 - 🟢 Linux Wanderer
 - 🟢 Keeper of Keys
 - 🟢 Code Initiate
 - 🟢 Data Keeper
+- 🟢 Logic Apprentice
 
 ---
 
@@ -23,14 +24,14 @@ Current Title:
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming| 25 |
+| 🖥️ Programming| 40 |
 | ⚙️ Backend | 10 | 
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |
 | 🔐 Security | 10 |
-| 🧩 Debugging | 5 |
-| 📚 Wisdom | 10 |
+| 🧩 Debugging | 15 |
+| 📚 Wisdom | 15 |
 
 ---
 
@@ -42,14 +43,7 @@ Golang Village
 
 # 🎯 Active Quest
 
-## LEVEL 003 — Conditions & Logic
-
-Next time:
-
-- if statement,
-- comparison,
-- true/false decision making,
-- how programs "choose",
+## LEVEL 004 — Loops
 
 ---
 
