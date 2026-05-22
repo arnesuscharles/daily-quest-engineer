@@ -7,7 +7,7 @@ Charles
 Engineer Adventurer
 
 ## Current Level
-3
+4
 
 ## Rank
 Novice
@@ -18,8 +18,8 @@ Novice
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming | 40 |
-| ⚙️ Backend | 10 |
+| 🖥️ Programming | 60 |
+| ⚙️ Backend | 15 |
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |
@@ -34,7 +34,7 @@ Novice
 | 🤖 AI | 0 |
 | 🧩 Debugging | 15 |
 | 📐 Architecture | 0 |
-| 📚 Wisdom | 15 |
+| 📚 Wisdom | 20 |
 
 ---
 
@@ -45,9 +45,10 @@ Novice
 - 🟢 Code Initiate
 - 🟢 Data Keeper
 - 🟢 Logic Apprentice
+- 🟢 Iteration Apprentice
 
 ---
 
 # 🎯 Active Quest
 
-Level 4 — Loops
+Level 5 — Functions

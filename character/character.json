@@ -2,12 +2,12 @@
   "name": "Charles",
   "class": "Engineer Adventurer",
   "rank": "Novice",
-  "level": 3,
-  "total_exp": 115,
+  "level": 4,
+  "total_exp": 145,
 
   "attributes": {
-    "programming": 40,
-    "backend": 10,
+    "programming": 60,
+    "backend": 15,
     "linux": 10,
     "terminal": 5,
     "git": 15,
@@ -22,7 +22,7 @@
     "ai": 0,
     "debugging": 15,
     "architecture": 0,
-    "wisdom": 15
+    "wisdom": 20
   },
 
   "titles": [
@@ -30,7 +30,8 @@
     "Keeper of Keys",
     "Code Initiate",
     "Data Keeper",
-    "Logic Apprentice"
+    "Logic Apprentice",
+    "Iteration Apprentice"
   ],
 
   "achievements": [
@@ -41,5 +42,5 @@
 
   "current_world": "Golang Village",
 
-  "active_quest": "Level 4 — Loops"
+  "active_quest": "Level 5 — Functions"
 }
