@@ -1,4 +1,4 @@
-# 🟢 Level 002 — Conditions & Logic
+# 🟢 Level 003 — Conditions & Logic
 
 ## Quest Type
 Main Quest
