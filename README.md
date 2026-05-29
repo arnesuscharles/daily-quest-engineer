@@ -9,7 +9,7 @@ An RPG-style engineering journey from Level 0 → 100.
 - Name: Charles
 - Class: Engineer Adventurer
 - Rank: Novice
-- Current Level: 5
+- Current Level: 6
 
 Current Title:
 - 🟢 Linux Wanderer
@@ -19,6 +19,7 @@ Current Title:
 - 🟢 Logic Apprentice
 - 🟢 Iteration Apprentice
 - 🟢 Function Smith
+- 🟢 Collection Handler
 
 ---
 
@@ -26,15 +27,15 @@ Current Title:
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming| 85 |
-| ⚙️ Backend | 15 | 
+| 🖥️ Programming| 110 |
+| ⚙️ Backend | 25 | 
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
 | 🔀 Git | 15 |
 | 🔐 Security | 10 |
 | 🧩 Debugging | 15 |
 | 📐 Architecture | 10 |
-| 📚 Wisdom | 25 |
+| 📚 Wisdom | 35 |
 
 ---
 
@@ -46,7 +47,7 @@ Golang Village
 
 # 🎯 Active Quest
 
-## LEVEL 006 — Arrays & Slices
+## LEVEL 007 — Structs
 
 ---
 
