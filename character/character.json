@@ -2,11 +2,11 @@
   "name": "Charles",
   "class": "Engineer Adventurer",
   "rank": "Novice",
-  "level": 6,
-  "total_exp": 225,
+  "level": 7,
+  "total_exp": 280,
 
   "attributes": {
-    "programming": 110,
+    "programming": 140,
     "backend": 25,
     "linux": 10,
     "terminal": 5,
@@ -21,8 +21,8 @@
     "spark": 0,
     "ai": 0,
     "debugging": 15,
-    "architecture": 10,
-    "wisdom": 35
+    "architecture": 25,
+    "wisdom": 45
   },
 
   "titles": [
@@ -33,7 +33,8 @@
     "Logic Apprentice",
     "Iteration Apprentice",
     "Function Smith",
-    "Collection Handler"
+    "Collection Handler",
+    "Model Architect"
   ],
 
   "achievements": [
@@ -44,5 +45,5 @@
 
   "current_world": "Golang Village",
 
-  "active_quest": "Level 7 — Structs"
+  "active_quest": "Level 8 — JSON"
 }

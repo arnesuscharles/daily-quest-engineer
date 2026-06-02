@@ -7,7 +7,7 @@ Charles
 Engineer Adventurer
 
 ## Current Level
-6
+7
 
 ## Rank
 Novice
@@ -18,7 +18,7 @@ Novice
 
 | Attribute | EXP |
 |---|---|
-| 🖥️ Programming | 110 |
+| 🖥️ Programming | 140 |
 | ⚙️ Backend | 25 |
 | 🐧 Linux | 10 |
 | 💻 Terminal | 5 |
@@ -33,8 +33,8 @@ Novice
 | 🔥 Spark | 0 |
 | 🤖 AI | 0 |
 | 🧩 Debugging | 15 |
-| 📐 Architecture | 10 |
-| 📚 Wisdom | 35 |
+| 📐 Architecture | 25 |
+| 📚 Wisdom | 45 |
 
 ---
 
@@ -48,9 +48,10 @@ Novice
 - 🟢 Iteration Apprentice
 - 🟢 Function Smith
 - 🟢 Collection Handler
+- 🟢 Model Architect
 
 ---
 
 # 🎯 Active Quest
 
-Level 7 — Structs
+Level 8 — JSON
